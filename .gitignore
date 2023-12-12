@@ -23,5 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 
-# JSON files
-package-lock.json
